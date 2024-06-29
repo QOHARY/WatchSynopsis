@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361734907378",
+    "project_id": "watchsynopsis",
+    "storage_bucket": "watchsynopsis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361734907378:android:cfb68d4442e7affd09b76b",
+        "android_client_info": {
+          "package_name": "com.example.uas.watchsynopsis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1g7GC_w5IHYcXWWjIuS1P2s_dU0ZL5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
